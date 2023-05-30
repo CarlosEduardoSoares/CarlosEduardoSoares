@@ -34,6 +34,6 @@
 ## Linguagens Mais Usadas
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soares007&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/Soares007/Soares007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoSoares&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/CarlosEduardoSoares/CarlosEduardoSoares)
 
  ![Snake animation](https://github.com/CarlosEduardoSoares/CarlosEduardoSoares/blob/output/github-contribution-grid-snake.svg)
